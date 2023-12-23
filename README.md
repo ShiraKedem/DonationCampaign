@@ -28,8 +28,8 @@ I collaborated on this project with [Miriam Toledano](https://github.com/miritol
 Copyright © 2023 [Shira Kedem]
 
 ## 📷 Project Images 📷
-![image]https://github.com/ShiraKedem/DonationCampaign/assets/150906665/da0b6f62-756f-4b4f-a169-f5f3044f273c
-![צילום מסך 2023-12-23 233824](https://github.com/ShiraKedem/DonationCampaign/assets/150906665/adc16096-aa1b-4b81-b6bf-81e6dd0fc5e4
 
-![צילום מסך 2023-12-23 233813](https://github.com/ShiraKedem/DonationCampaign/assets/150906665/9916dae1-e44e-47a5-8647-be332ae760ca
 
+![עמוד הבית](https://github.com/ShiraKedem/DonationCampaign/assets/150906665/b435001c-5292-4979-87e0-760968242797)
+![צילום מסך 2023-12-23 233824](https://github.com/ShiraKedem/DonationCampaign/assets/150906665/9d9937a3-a953-450e-9a47-b52425004874)
+![צילום מסך 2023-12-23 233813](https://github.com/ShiraKedem/DonationCampaign/assets/150906665/15744032-369c-4c56-9cea-6c631735e077)
